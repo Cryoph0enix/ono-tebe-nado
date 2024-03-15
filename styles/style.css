@@ -25,8 +25,13 @@
     justify-self: center;
 }
 
+.header__links-list-item_no-bullit{
+    list-style: none;
+}
+
 .header__links-list-item {
     border-bottom: 1px solid black;
+    list-style: circle;
 }
 
 .address {
