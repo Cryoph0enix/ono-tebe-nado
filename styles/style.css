@@ -34,7 +34,7 @@
     list-style: circle;
 }
 
-.header__link-active{
+.header__link-active {
     text-decoration: none;
 }
 
@@ -91,15 +91,15 @@
     color: white;
 }
 
-.cover__title_element{
+.cover__title_element {
     padding: 20px 50px 0 0;
     display: block;
     line-height: 100px;
 }
 
 .cover__title_element-middle {
-   text-align: center;
-   letter-spacing: 30px;
+    text-align: center;
+    letter-spacing: 30px;
 }
 
 .cover__title_element-bottom {
@@ -110,7 +110,7 @@
     letter-spacing: 60px;
 }
 
-.no-letter__spacing{
+.no-letter__spacing {
     letter-spacing: 0;
 }
 
@@ -257,7 +257,6 @@
     display: flex;
     flex-direction: column;
     gap: 24px;
-
 }
 
 .about__logo {
